@@ -1,8 +1,6 @@
-# MERKEZİ İŞLEMLERİNİ YAPMA 
-
+# MERKEZI ISLEMLERININ YAPILMASI
 import streamlit as st
 import datahelper
-
 
 if "dataload" not in st.session_state:
     st.session_state.dataload = False
