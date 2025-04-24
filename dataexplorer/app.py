@@ -1,4 +1,4 @@
-# MERKEZİ İŞLEMİNLERİNİ YAPMA 
+# MERKEZİ İŞLEMLERİNİ YAPMA 
 
 import streamlit as st
 import datahelper
